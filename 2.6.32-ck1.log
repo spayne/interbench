@@ -1,0 +1,27 @@
+
+Using 2991769 loops per ms, running every load for 30 seconds
+Benchmarking kernel 2.6.32-ck1 at datestamp 200912132212
+
+--- Benchmarking simulated cpu of Audio in the presence of simulated ---
+Load	Latency +/- SD (ms)  Max Latency   % Desired CPU  % Deadlines Met
+Memload	   0.0 +/- 0.0        0.0		 100	        100
+
+--- Benchmarking simulated cpu of Video in the presence of simulated ---
+Load	Latency +/- SD (ms)  Max Latency   % Desired CPU  % Deadlines Met
+Memload	
+Using 2991769 loops per ms, running every load for 30 seconds
+Benchmarking kernel 2.6.32-ck1 at datestamp 200912132214
+
+--- Benchmarking simulated cpu of Audio in the presence of simulated ---
+Load	Latency +/- SD (ms)  Max Latency   % Desired CPU  % Deadlines Met
+Memload	
+Using 2991769 loops per ms, running every load for 30 seconds
+Benchmarking kernel 2.6.32-ck1 at datestamp 200912132223
+
+--- Benchmarking simulated cpu of Audio in the presence of simulated ---
+Load	Latency +/- SD (ms)  Max Latency   % Desired CPU  % Deadlines Met
+Memload	   0.0 +/- 0.0        0.0		 100	        100
+
+--- Benchmarking simulated cpu of Video in the presence of simulated ---
+Load	Latency +/- SD (ms)  Max Latency   % Desired CPU  % Deadlines Met
+Memload	

@@ -1,6 +1,8 @@
 CC=gcc
 CFLAGS=-W -Wall -g -O2 -s -pipe
-LDFLAGS=-lrt -lm -pthread
+LDFLAGS=-pthread
+LDLIBS=-lrt -lm
+
 
 interbench: interbench.o hackbench.o
 interbench.o: interbench.c
